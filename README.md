@@ -56,9 +56,7 @@ cat-image-fetcher/
    ```
 2. Navigate to the project directory:
 
-   ```cd cat-image-fetcher
-
-   ```
+  cd cat-image-fetcher
 
 3. Open index.html in your browser to view the project.
 
